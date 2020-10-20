@@ -1,0 +1,2 @@
+javac <name.java>
+java <Name.class>
